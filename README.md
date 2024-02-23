@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TheBl00000
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on small python projects
+- 📫 You can reach me on my discord theblooooo
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like Friends
