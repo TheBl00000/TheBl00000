@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBl00000
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Computer Science and Artificial Intelligence
+- 🌱 I’m currently Doing CS50x
 - 📫 You can reach me on my discord theblooooo
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Star Wars and Friends
+- ⚡ Fun fact: I like Star Wars
